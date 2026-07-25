@@ -1,0 +1,2 @@
+This is just a sample text file to test the encryptor.
+it can encrypt and decrypt this text and anything you put in here!!!
